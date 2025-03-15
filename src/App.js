@@ -5,6 +5,7 @@ import './App.css';
 import Contact from "./components/Contact";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
+// import OtherExperiences from "./components/OtherExperiences";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
@@ -37,6 +38,7 @@ function App() {
           <Wrapper>
             <Skills />
             <Experience />
+            {/* <OtherExperiences/> */}
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
