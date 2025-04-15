@@ -301,6 +301,47 @@ export const Bio = {
       webapp: "https://ai-saa-s-azure.vercel.app/",
     },
     {
+      id: 7,
+      title: "SensAI",
+      date: "Feb 2025",
+      description:
+        "SensAI is an AI-powered career coaching platform designed to help students and job seekers prepare for interviews and build strong professional profiles. It offers personalized resume and cover letter generation, mock interview simulations with AI, skill-based quizzes, and visual insights into trending tech stacks. Built with modern technologies like React.js, Tailwind CSS, Prisma, NeonDB, and deployed on Vercel, SensAI delivers a seamless and intelligent career preparation experience.",
+      image:
+        "https://github.com/user-attachments/assets/3b7a738c-ae6b-42f2-a5b6-fb0142d67f54",
+      tags: [
+        "React Js",
+        "Tailwind CSS",
+        "Shadcn UI",
+        "Prisma ORM",
+        "Neon DB",
+        "Clerk",
+        "Gemini AI API",
+        "Inngest",
+      ],
+      category: "web app",
+      github: "https://github.com/adarshraj26/AI-Career-Coach",
+      webapp: "https://sensai-ebon-five.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Hirrd",
+      date: "Mar 2025",
+      description:
+        "Hirrd is a full-stack job portal I built to simplify the hiring process for both job seekers and recruiters. The platform allows job seekers to browse and apply for jobs based on location, company, and skills, while recruiters can post jobs, track applications, and manage hiring status in real-time. It features separate dashboards for job seekers and recruiters, role-based access, application tracking, and job-saving functionality — all designed to create a smooth, focused hiring experience. The platform also includes a direct integration with SensAI, my AI Career Coach tool, for easy access to resume-building and interview prep right from the job portal.",
+      image:
+        "https://github.com/user-attachments/assets/94e68ead-2f50-4643-9da5-7d91e15e2975",
+      tags: [
+        "React Js",
+        "Tailwind CSS",
+        "Shadcn UI",
+        "Supabase",
+        "Clerk",
+      ],
+      category: "web app",
+      github: "https://github.com/adarshraj26/job-portal",
+      webapp: "https://hirrd-ashy.vercel.app/",
+    },
+    {
       id: 0,
       title: "Cab Booking Application",
       date: "Aug 2023 - Dec 2023",
